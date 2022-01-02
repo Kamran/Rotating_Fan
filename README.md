@@ -1,4 +1,6 @@
-# <center Rotating_Fan>
+#  Rotating_Fan
+
+*Instruction
 
 This is the computer graphics project work with glut, c++, and code blocks. Here I am use "Rotation, Movement, Fan, Circle, Polygon,  Special key, keyboard control".
 <h5>* Press 's' to start or stop the Fan</n>.
